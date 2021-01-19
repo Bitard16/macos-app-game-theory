@@ -4,7 +4,7 @@
 //
 //  Created by Bitard on 1/19/21.
 //
-
+// example for commits and pushing from xcode
 import SwiftUI
 
 struct ContentView: View {
